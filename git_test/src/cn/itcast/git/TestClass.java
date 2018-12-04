@@ -10,4 +10,9 @@ public class TestClass {
         System.out.println("hello,git_project");
         System.out.println("hello,git_project");
     }
+    public void test(){
+        int i= 10;
+        i+=100;
+        System.out.println("test");
+    }
 }
